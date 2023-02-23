@@ -1,0 +1,5 @@
+# igonre .vscode setting file
+.vscode/
+
+# igonre output file by gcc created
+output/
